@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/avatar.jpg" width="160px" style="border-radius: 50%; border: 3px solid #38BDF8; box-shadow: 0 0 20px rgba(56,189,248,0.4);" alt="Murshed Koli - Avatar" />
+
 # Hi there, I'm Murshed 👋
 ### 🚀 Full-Stack Web Developer & Software Engineer
 
