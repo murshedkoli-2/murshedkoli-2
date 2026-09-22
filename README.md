@@ -3,10 +3,10 @@
 <img src="profile.jpg" width="165" height="165" style="border-radius: 50%; object-fit: cover; border: 4px solid #38BDF8; box-shadow: 0 0 30px rgba(56, 189, 248, 0.45);" alt="murshedkoli" />
 
 # 👨‍💻 murshedkoli
-### Full-Stack Web Developer & Next.js Ecosystem Architect
+### Full-Stack Web Developer & Next.js Systems Architect
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Web+Developer;Next.js+16+%26+React+19+Specialist;Creator+of+VoterApp%2C+Web+Directory+%26+PDF+Extractor;TypeScript%2C+Prisma+ORM+%26+Neon+PostgreSQL;Engineering+Civic+Data+%26+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Web+Developer;Next.js+15%2B+%26+React+19+Specialist;Creator+of+NewsByte%2C+dRecharge+%26+SebaHub;TypeScript%2C+Prisma+ORM+%26+PostgreSQL;Engineering+High-Scale+Web+%26+Civic+Platforms" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -23,89 +23,73 @@
 
 ## 📌 Executive Summary
 
-I am a **Full-Stack Web Developer** specializing in **Next.js 16 (App Router)**, **React 19**, **TypeScript**, and **Serverless Data Architectures**. My engineering focus spans complex civic registries, intelligent OCR data parsers, AI creative workflows, and high-performance web directories.
+I am a **Full-Stack Web Developer** specializing in **Next.js (App Router)**, **React 19**, **TypeScript**, and **Serverless Data Architectures**. I design and build resilient digital platforms ranging from high-throughput content ingestion and real-time news extraction to automated telecommunications billing and digital citizen services.
 
-I leverage the cutting edge of the modern web stack: **React Server Components (RSC)** for near-zero bundle sizes, **Next.js Server Actions** for strict type-safe mutations, **Prisma ORM** with **Neon Serverless PostgreSQL** connection pooling, and client-side document automation.
+My engineering core leverages **React Server Components (RSC)** for minimal client bundles, **Next.js Server Actions** for strictly typed data mutations, **Prisma ORM** with **Neon Serverless PostgreSQL** connection pooling, and direct-to-cloud file streaming via **AWS S3**.
 
-- 🏆 **Primary Flagships**: **VoterApp** (Electoral Registry & ID System), **Web Directory** (Prisma & Neon Portal), and **Bengali PDF Extractor** (Streamlit OCR Engine).
-- ⚡ **Core Technologies**: Next.js 16/15, React 19, TypeScript, Prisma ORM, Neon PostgreSQL, Python, Streamlit, Tailwind CSS.
-- 💡 **Philosophy**: Zero-compromise type safety, server-first data fetching, accessible UI/UX, and robust relational data schemas.
+- 🏆 **Signature Masterpieces**: **NewsByte** (Automated News Scraper & Discovery Engine), **dRecharge** (Digital Mobile Top-Up & Payment Utility), and **SebaHub** (Digital Citizen Services Delivery Hub).
+- ⚡ **Core Technologies**: Next.js 16/15, React 19, TypeScript, Node.js, Prisma ORM, Neon PostgreSQL, Firebase, AWS S3, Tailwind CSS.
+- 💡 **Philosophy**: Zero-runtime CSS overhead, server-first data loading, strict end-to-end type safety, and resilient transactional architecture.
 
 ---
 
 ## 🏆 Signature Masterpieces & Flagship Projects
 
 <div align="center">
-  <i>Highlighted systems developed and maintained directly on this profile.</i>
+  <i>The primary flagship platforms engineered and maintained on this profile.</i>
 </div>
 
 <br/>
 
-### 1. 🗳️ [VoterApp — Enterprise Voter Registry & Electoral Analytics Platform](https://github.com/murshedkoli-2/voterapp)
+### 1. 📰 [NewsByte — Real-Time Curated News Discovery & Scraping Engine](https://github.com/murshedkoli-2/NewsByte)
 
-> **High-performance electoral records management system engineered for municipal election authorities, local councils, and civic organizations.**
+> **Automated high-speed news aggregation, web scraping, and real-time content delivery platform ingesting live feeds from global and regional publishers.**
 
-[![Next.js](https://img.shields.io/badge/Next.js-16.3-black?style=flat-square&logo=next.js)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma)](https://www.prisma.io/)
-[![Neon Postgres](https://img.shields.io/badge/Neon-PostgreSQL-00E599?style=flat-square&logo=postgresql)](https://neon.tech/)
-[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/murshedkoli-2/voterapp)
+[![Node.js](https://img.shields.io/badge/Node.js-20.x-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
+[![Cheerio](https://img.shields.io/badge/Scraper-Cheerio-E88C1F?style=flat-square)](https://cheerio.js.org/)
+[![Readability](https://img.shields.io/badge/Parser-Mozilla_Readability-FF4F00?style=flat-square)](https://github.com/mozilla/readability)
+[![Firebase](https://img.shields.io/badge/Database-Firebase_Realtime-FFCA28?style=flat-square&logo=firebase)](https://firebase.google.com/)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/murshedkoli-2/NewsByte)
 
-- **🔍 Comprehensive Citizen Directory**: Real-time fuzzy searching by Voter ID, citizen name, serial number, and multi-tier filtering by District, Upazila, Union, Ward, and Registration Status.
-- **🪪 Digital Voter ID Card Generator**: Interactive card preview and export modal generating formatted citizen ID passes with photo, biographical data, and area barcodes.
-- **📊 Demographic & Territorial Analytics**: Real-time analytics dashboard calculating ward population distributions, gender ratios, and voter status breakdowns.
-- **⚡ Batch JSON Import & Export**: One-click bulk voter onboarding with JSON schema validation, error detection, and rapid database synchronization.
+- **🕷️ High-Performance Scraping Pipeline**: Automated RSS/Atom feed extraction and HTML parsing powered by Cheerio and Fast-XML-Parser.
+- **🛡️ Clean Content Extraction**: Strips ads, paywalls, and clutter via **Mozilla Readability** to extract pristine article text and primary imagery.
+- **⚡ Real-Time Live Feed Distribution**: Instant article synchronization with Firebase for real-time delivery to mobile and web reader clients.
+- **🏷️ Automated Topic Classification**: Tags incoming news into National, International, Politics, Technology, and Sports streams.
 
 ---
 
-### 2. 🚀 [Web Directory — Curated Digital Portal & Domain Indexer](https://github.com/murshedkoli-2/web-directory)
+### 2. ⚡ [dRecharge — Modern Digital Mobile Recharge & Payment Utility Platform](https://github.com/murshedkoli-2/dRechargenew)
 
-> **Modern, high-speed digital directory portal allowing users to discover, bookmark, categorize, and submit verified digital tools and public web services.**
+> **High-availability telecommunications airtime recharge and payment utility platform engineered for multi-operator dispatch and retailer balance ledgers.**
+
+[![Platform](https://img.shields.io/badge/Platform-Full_Stack_FinTech-black?style=flat-square)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/Language-TypeScript_|_Node.js-blue?style=flat-square)](https://www.typescriptlang.org/)
+[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+[![Status](https://img.shields.io/badge/Architecture-Scalable_Modem_Pool-00E599?style=flat-square)](https://github.com/murshedkoli-2/dRechargenew)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/murshedkoli-2/dRechargenew)
+
+- **⚡ Multi-Operator Dispatch Gateway**: Centralized orchestration for airtime recharges across Grameenphone, Banglalink, Robi, Airtel, and Teletalk.
+- **🔄 Automated Modem Pool Integration**: Coordinates hardware SIM pools and USSD request dispatchers for rapid transaction execution.
+- **📊 Retailer & Merchant Ledger**: Real-time balance auditing, commission settlement tracking, and transaction dispute reconciliation.
+- **🛡️ Resilient Transaction Queues**: Fault-tolerant retry queues preventing duplicate top-ups and ensuring ACID transactional consistency.
+
+---
+
+### 3. 🏛️ [SebaHub — Digital Citizen Services & Utility Delivery Hub](https://github.com/murshedkoli-2/sebahub)
+
+> **Modern digital public service platform engineered for municipal councils to streamline certificate applications, civic utility payments, and service tracking.**
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=flat-square&logo=next.js)](https://nextjs.org/)
-[![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma)](https://www.prisma.io/)
-[![Neon Postgres](https://img.shields.io/badge/Neon-Serverless-00E599?style=flat-square&logo=postgresql)](https://neon.tech/)
-[![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radix-ui)](https://radix-ui.com/)
+[![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react)](https://react.dev/)
+[![Radix UI](https://img.shields.io/badge/UI-Radix_UI-161618?style=flat-square&logo=radix-ui)](https://radix-ui.com/)
+[![AWS S3](https://img.shields.io/badge/Storage-AWS_S3-FF9900?style=flat-square&logo=amazon-s3)](https://aws.amazon.com/s3/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
-[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/murshedkoli-2/web-directory)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/murshedkoli-2/sebahub)
 
-- **⚡ Instant Fuzzy Search**: High-performance client and server search across categorized web resources with tag-based filtering.
-- **🛡️ Community Submissions Pipeline**: Public submission workflow with administrative validation, domain verification, and moderation tools.
-- **🎨 Glassmorphic Accessible Interface**: Built with Radix UI primitives ensuring full keyboard navigation and screen-reader accessibility.
-- **🗄️ Relational Data Modeling**: Powered by Prisma ORM and Neon PostgreSQL serverless pooling.
-
----
-
-### 3. 📄 [Bengali PDF Extractor — Electoral Roll OCR & Tabular Parser](https://github.com/murshedkoli-2/pdf-extractor)
-
-> **Specialized Python and Streamlit data extraction utility optimized for parsing multi-page scanned and digital Bengali voter lists into structured datasets.**
-
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square&logo=streamlit)](https://streamlit.io/)
-[![pdfplumber](https://img.shields.io/badge/Parser-pdfplumber_|_pypdf-green?style=flat-square)](https://github.com/jsvine/pdfplumber)
-[![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
-[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/murshedkoli-2/pdf-extractor)
-
-- **🇧🇩 Specialized Bengali Script OCR**: Custom layout algorithms tuned specifically for Bengali Unicode font ligatures, compound letters, and numerical digits.
-- **📑 Multi-Column Tabular Parsing**: Handles complex multi-card layouts spanning hundreds of pages with layout analysis and boundary detection.
-- **🖥️ Interactive Streamlit Interface**: Clean web UI to upload PDFs, preview parsed records in real-time, and download formatted datasets in Excel (`.xlsx`), CSV, or JSON.
-
----
-
-### 4. 🤖 [Veo Prompt Builder — Interactive AI Video Prompt Studio](https://github.com/murshedkoli-2/veopromptbuilder)
-
-> **Interactive generative AI prompt synthesizer built for digital creators to compile optimized camera cues, lighting parameters, and styles for Google Veo, Sora, and Midjourney.**
-
-[![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=flat-square&logo=next.js)](https://nextjs.org/)
-[![NextAuth](https://img.shields.io/badge/Auth-NextAuth.js-purple?style=flat-square)](https://next-auth.js.org/)
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
-[![Framer Motion](https://img.shields.io/badge/Motion-Framer_Motion-0055FF?style=flat-square&logo=framer)](https://www.framer.com/motion/)
-[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/murshedkoli-2/veopromptbuilder)
-
-- **🎬 Cinematic Parameter Controls**: Fine-tune camera motion (Drone, Dolly Zoom, Orbit), lenses, lighting conditions, and aesthetic moods.
-- **⚡ Real-Time Prompt Synthesis**: Instantly compiles complex visual descriptions into optimized, model-ready prompt strings.
-- **💾 Personal Prompt Library**: Save and categorize favorite prompts to user profiles backed by MongoDB and NextAuth.
+- **📑 Citizen Service Portal**: Streamlined application workflows for official municipal certificates, character certificates, and trade permits.
+- **⚡ Real-Time Service Availability**: Dynamic operational status and desk schedule matrix for local public digital service centers.
+- **☁️ Cloud Document Ingestion**: Direct-to-S3 secure file uploads using pre-signed cryptographic URLs.
+- **🎨 Accessible UI Components**: Built entirely on Radix UI primitives ensuring complete keyboard navigation and screen-reader accessibility.
 
 ---
 
@@ -124,25 +108,25 @@ I leverage the cutting edge of the modern web stack: **React Server Components (
 ### ⚙️ Backend, Serverless & Data
 [![Node.js LTS](https://img.shields.io/badge/Node.js_LTS-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Server Actions](https://img.shields.io/badge/Server_Actions-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![Neon Postgres](https://img.shields.io/badge/Neon_Serverless_Postgres-00E599?style=for-the-badge&logo=postgresql&logoColor=black)](https://neon.tech/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Google Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
 </div>
 
 ---
 
-## 🌟 Other Noteworthy Projects on this Profile
+## 🌟 Other Notable Projects on this Profile
 
 | Project | Stack | Focus Area | Repository |
 |---|---|---|---|
-| **📰 NewsByte Engine** | Node.js, Cheerio, Readability, Firebase | Real-time news discovery and content sanitization pipeline | [View Repo](https://github.com/murshedkoli-2/NewsByte) |
-| **🏛️ Smart Union** | React 19, React-PDF, Handlebars, JWT | Civic governance portal for verified official certificates | [View Repo](https://github.com/murshedkoli-2/smart_union) |
-| **📝 TaskFlow** | Next.js 15, TypeScript, MongoDB, NextAuth | Modern task and workspace productivity management system | [View Repo](https://github.com/murshedkoli-2/todo) |
-| **📱 NewsApp** | React Native, Expo 51, TanStack Query | Mobile news reader with offline caching and category feeds | [View Repo](https://github.com/murshedkoli-2/newsapp) |
-| **📶 MiFi Manager** | React Native, Expo, Supabase | Mobile cellular router balance and data quota monitoring | [View Repo](https://github.com/murshedkoli-2/mifi) |
+| **🗳️ VoterApp** | Next.js 16, React 19, Prisma, Neon Postgres | Full-scale voter registry, ID pass generator & demographic analytics | [View Repo](https://github.com/murshedkoli-2/voterapp) |
+| **🚀 Web Directory** | Next.js 15, Prisma, Neon, Radix UI | Curated digital domain directory with instant fuzzy search | [View Repo](https://github.com/murshedkoli-2/web-directory) |
+| **📄 Bengali PDF Extractor** | Python 3.10+, Streamlit, pdfplumber | Automated multi-page OCR & tabular data parsing for voter rolls | [View Repo](https://github.com/murshedkoli-2/pdf-extractor) |
+| **🤖 Veo Prompt Builder** | Next.js 15, NextAuth, MongoDB, Framer Motion | Interactive AI prompt generator for video and image generation models | [View Repo](https://github.com/murshedkoli-2/veopromptbuilder) |
+| **📱 NewsApp** | React Native, Expo 51, TanStack Query | Mobile news reader with offline caching and live feeds | [View Repo](https://github.com/murshedkoli-2/newsapp) |
 
 ---
 
