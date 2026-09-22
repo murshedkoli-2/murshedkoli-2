@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Murshed Koli
+# 👨‍💻 murshedkoli
 ### Full-Stack Web Developer & Modern Systems Architect
 
 <a href="https://git.io/typing-svg">
@@ -92,7 +92,7 @@ Passionate and results-driven **Full-Stack Web Developer** with deep expertise i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=murshedkoli-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Murshed Koli GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=murshedkoli-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="murshedkoli GitHub Stats" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murshedkoli-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
 
 <br/>
