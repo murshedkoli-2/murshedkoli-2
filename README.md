@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="profile.jpg" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #38BDF8; box-shadow: 0 4px 20px rgba(56, 189, 248, 0.3);" alt="murshedkoli" />
+
 # 👨‍💻 murshedkoli
 ### Full-Stack Web Developer & Modern Systems Architect
 
