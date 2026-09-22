@@ -6,7 +6,7 @@
 ### Full-Stack Web Developer & Next.js Systems Architect
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Web+Developer;Next.js+15%2B+%26+React+19+Specialist;Creator+of+NewsByte%2C+dRecharge+%26+SebaHub;TypeScript%2C+Prisma+ORM+%26+PostgreSQL;Engineering+High-Scale+Web+%26+Civic+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Web+Developer;Next.js+15%2B+%26+React+19+Specialist;Creator+of+KFlix%2C+NewsByte%2C+dRecharge+%26+SebaHub;TypeScript%2C+Prisma+ORM+%26+PostgreSQL;Engineering+Streaming%2C+Civic+%26+FinTech+Platforms" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -23,12 +23,12 @@
 
 ## 📌 Executive Summary
 
-I am a **Full-Stack Web Developer** specializing in **Next.js (App Router)**, **React 19**, **TypeScript**, and **Serverless Data Architectures**. I design and build resilient digital platforms ranging from high-throughput content ingestion and real-time news extraction to automated telecommunications billing and digital citizen services.
+I am a **Full-Stack Web Developer** specializing in **Next.js (App Router)**, **React 19**, **TypeScript**, and **High-Performance Cloud Architectures**. I build resilient digital platforms spanning adaptive media streaming, high-throughput news scraping, automated telecommunications top-ups, and civic utility services.
 
-My engineering core leverages **React Server Components (RSC)** for minimal client bundles, **Next.js Server Actions** for strictly typed data mutations, **Prisma ORM** with **Neon Serverless PostgreSQL** connection pooling, and direct-to-cloud file streaming via **AWS S3**.
+My engineering core leverages **React Server Components (RSC)** for minimal client bundles, **Next.js Server Actions** for strictly typed data mutations, **Prisma ORM** with **Neon Serverless PostgreSQL** connection pooling, and direct-to-cloud file streaming via **AWS S3** and **Google APIs**.
 
-- 🏆 **Signature Masterpieces**: **NewsByte** (Automated News Scraper & Discovery Engine), **dRecharge** (Digital Mobile Top-Up & Payment Utility), and **SebaHub** (Digital Citizen Services Delivery Hub).
-- ⚡ **Core Technologies**: Next.js 16/15, React 19, TypeScript, Node.js, Prisma ORM, Neon PostgreSQL, Firebase, AWS S3, Tailwind CSS.
+- 🏆 **Signature Masterpieces**: **KFlix** (Media Streaming Platform), **NewsByte** (Automated News Scraper & Discovery Engine), **dRecharge** (Digital Mobile Top-Up & Payment Utility), and **SebaHub** (Digital Citizen Services Delivery Hub).
+- ⚡ **Core Technologies**: Next.js 16/15, React 19, TypeScript, Node.js, Prisma ORM, Neon PostgreSQL, MongoDB, Google APIs, AWS S3, Tailwind CSS.
 - 💡 **Philosophy**: Zero-runtime CSS overhead, server-first data loading, strict end-to-end type safety, and resilient transactional architecture.
 
 ---
@@ -41,7 +41,25 @@ My engineering core leverages **React Server Components (RSC)** for minimal clie
 
 <br/>
 
-### 1. 📰 [NewsByte — Real-Time Curated News Discovery & Scraping Engine](https://github.com/murshedkoli-2/NewsByte)
+### 1. 🎬 [KFlix — Modern Video Streaming & Content Player Platform](https://github.com/murshedkoli-2/kflix)
+
+> **High-performance media streaming and video playback web application featuring custom controls, cloud stream indexing, and high-concurrency catalog architecture.**
+
+[![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react)](https://react.dev/)
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
+[![Google APIs](https://img.shields.io/badge/Cloud-Google_APIs-4285F4?style=flat-square&logo=google)](https://cloud.google.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/murshedkoli-2/kflix)
+
+- **🎥 Smooth Adaptive Video Playback**: Optimized media streaming interface with custom controls, playback speed toggles, resolution switching, and immersive cinema mode.
+- **📂 Dynamic Content & Watchlists**: Categorized media browsing with genres, trending titles, custom playlists, and watch history tracking.
+- **🔗 Google APIs & Cloud Indexing**: Direct integration with Google APIs for automated video metadata retrieval, stream routing, and cloud catalog synchronization.
+- **🗄️ High-Speed MongoDB Datastore**: Scalable media document schemas with compound indexing for ultra-low latency searches and playback state persistence.
+
+---
+
+### 2. 📰 [NewsByte — Real-Time Curated News Discovery & Scraping Engine](https://github.com/murshedkoli-2/NewsByte)
 
 > **Automated high-speed news aggregation, web scraping, and real-time content delivery platform ingesting live feeds from global and regional publishers.**
 
@@ -58,7 +76,7 @@ My engineering core leverages **React Server Components (RSC)** for minimal clie
 
 ---
 
-### 2. ⚡ [dRecharge — Modern Digital Mobile Recharge & Payment Utility Platform](https://github.com/murshedkoli-2/dRechargenew)
+### 3. ⚡ [dRecharge — Modern Digital Mobile Recharge & Payment Utility Platform](https://github.com/murshedkoli-2/dRechargenew)
 
 > **High-availability telecommunications airtime recharge and payment utility platform engineered for multi-operator dispatch and retailer balance ledgers.**
 
@@ -75,7 +93,7 @@ My engineering core leverages **React Server Components (RSC)** for minimal clie
 
 ---
 
-### 3. 🏛️ [SebaHub — Digital Citizen Services & Utility Delivery Hub](https://github.com/murshedkoli-2/sebahub)
+### 4. 🏛️ [SebaHub — Digital Citizen Services & Utility Delivery Hub](https://github.com/murshedkoli-2/sebahub)
 
 > **Modern digital public service platform engineered for municipal councils to streamline certificate applications, civic utility payments, and service tracking.**
 
@@ -110,9 +128,10 @@ My engineering core leverages **React Server Components (RSC)** for minimal clie
 [![Server Actions](https://img.shields.io/badge/Server_Actions-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![Neon Postgres](https://img.shields.io/badge/Neon_Serverless_Postgres-00E599?style=for-the-badge&logo=postgresql&logoColor=black)](https://neon.tech/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://cloud.google.com/)
 
 </div>
 
