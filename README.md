@@ -6,7 +6,7 @@
 ### Full-Stack Web Developer & Next.js Ecosystem Architect
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Web+Developer;Next.js+15%2B+%26+React+19+Specialist;Architect+of+Smart+Union%2C+KoliDrive+%26+Muktirkantho;TypeScript%2C+Prisma+ORM+%26+Neon+PostgreSQL;Engineering+Civic+%26+Cloud+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Web+Developer;Next.js+16+%26+React+19+Specialist;Creator+of+VoterApp%2C+Web+Directory+%26+PDF+Extractor;TypeScript%2C+Prisma+ORM+%26+Neon+PostgreSQL;Engineering+Civic+Data+%26+AI+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -23,62 +23,126 @@
 
 ## 📌 Executive Summary
 
-Passionate and results-driven **Full-Stack Web Developer** specializing in **Next.js (App Router)**, **React 19**, and **TypeScript** full-stack ecosystems. Experienced in architecting end-to-end web applications—from building accessible, pixel-perfect user interfaces with Tailwind CSS and Radix UI to engineering resilient serverless database pipelines with **Prisma ORM**, **Neon PostgreSQL**, and **AWS S3**.
+I am a **Full-Stack Web Developer** specializing in **Next.js 16 (App Router)**, **React 19**, **TypeScript**, and **Serverless Data Architectures**. My engineering focus spans complex civic registries, intelligent OCR data parsers, AI creative workflows, and high-performance web directories.
 
-- 🏆 **Flagship Innovations**: **Smart Union** (Digital Citizen Governance & Document Engine), **Muktirkantho** (Digital News Publication Portal), and **KoliDrive Cloud** (Enterprise Cloud Storage).
-- 💡 **Core Strengths**: Next.js App Router, React Server Components (RSC), Server Actions, Database Indexing, S3 Cloud Pipelines.
-- ⚡ **Tech Stack Focus**: Next.js 15+, React 19, TypeScript, Prisma ORM, Neon PostgreSQL, MongoDB, Tailwind CSS, Docker.
+I leverage the cutting edge of the modern web stack: **React Server Components (RSC)** for near-zero bundle sizes, **Next.js Server Actions** for strict type-safe mutations, **Prisma ORM** with **Neon Serverless PostgreSQL** connection pooling, and client-side document automation.
 
----
-
-## 🏆 Signature Masterpieces
-
-### 1. 📰 [Muktirkantho — Modern Digital News Publishing Portal](https://github.com/morshedkoli/muktirkantho)
-- **Architecture**: Next.js 15, React 19, Prisma ORM, Cloudinary CDN, Radix UI.
-- **Highlights**: On-demand Incremental Static Regeneration (`revalidateTag`), Server Actions editorial workflows, and Cloudinary media optimization.
-
-### 2. ☁️ [KoliDrive Cloud — Enterprise Cloud File Storage Platform](https://github.com/morshedkoli/kolidrive)
-- **Architecture**: Next.js 15, AWS S3, Argon2, Jose JWT, Tailwind CSS.
-- **Highlights**: Direct-to-S3 chunked file streaming via presigned URLs, cryptographic share links, and glassmorphic file workspace.
-
-### 3. 🏛️ [Smart Union — Digital Citizen Services & Municipal Governance](https://github.com/murshedkoli-2/smart_union)
-- **Architecture**: Next.js / React 19, Google Gemini AI, jsPDF, html2canvas, JWT.
-- **Highlights**: Automated municipal certificate issuance with digital seals, QR code authenticity verification, and AI-assisted drafting.
+- 🏆 **Primary Flagships**: **VoterApp** (Electoral Registry & ID System), **Web Directory** (Prisma & Neon Portal), and **Bengali PDF Extractor** (Streamlit OCR Engine).
+- ⚡ **Core Technologies**: Next.js 16/15, React 19, TypeScript, Prisma ORM, Neon PostgreSQL, Python, Streamlit, Tailwind CSS.
+- 💡 **Philosophy**: Zero-compromise type safety, server-first data fetching, accessible UI/UX, and robust relational data schemas.
 
 ---
 
-## 🛠️ Technical Skills & Arsenal
+## 🏆 Signature Masterpieces & Flagship Projects
+
+<div align="center">
+  <i>Highlighted systems developed and maintained directly on this profile.</i>
+</div>
+
+<br/>
+
+### 1. 🗳️ [VoterApp — Enterprise Voter Registry & Electoral Analytics Platform](https://github.com/murshedkoli-2/voterapp)
+
+> **High-performance electoral records management system engineered for municipal election authorities, local councils, and civic organizations.**
+
+[![Next.js](https://img.shields.io/badge/Next.js-16.3-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma)](https://www.prisma.io/)
+[![Neon Postgres](https://img.shields.io/badge/Neon-PostgreSQL-00E599?style=flat-square&logo=postgresql)](https://neon.tech/)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/murshedkoli-2/voterapp)
+
+- **🔍 Comprehensive Citizen Directory**: Real-time fuzzy searching by Voter ID, citizen name, serial number, and multi-tier filtering by District, Upazila, Union, Ward, and Registration Status.
+- **🪪 Digital Voter ID Card Generator**: Interactive card preview and export modal generating formatted citizen ID passes with photo, biographical data, and area barcodes.
+- **📊 Demographic & Territorial Analytics**: Real-time analytics dashboard calculating ward population distributions, gender ratios, and voter status breakdowns.
+- **⚡ Batch JSON Import & Export**: One-click bulk voter onboarding with JSON schema validation, error detection, and rapid database synchronization.
+
+---
+
+### 2. 🚀 [Web Directory — Curated Digital Portal & Domain Indexer](https://github.com/murshedkoli-2/web-directory)
+
+> **Modern, high-speed digital directory portal allowing users to discover, bookmark, categorize, and submit verified digital tools and public web services.**
+
+[![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma)](https://www.prisma.io/)
+[![Neon Postgres](https://img.shields.io/badge/Neon-Serverless-00E599?style=flat-square&logo=postgresql)](https://neon.tech/)
+[![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radix-ui)](https://radix-ui.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/murshedkoli-2/web-directory)
+
+- **⚡ Instant Fuzzy Search**: High-performance client and server search across categorized web resources with tag-based filtering.
+- **🛡️ Community Submissions Pipeline**: Public submission workflow with administrative validation, domain verification, and moderation tools.
+- **🎨 Glassmorphic Accessible Interface**: Built with Radix UI primitives ensuring full keyboard navigation and screen-reader accessibility.
+- **🗄️ Relational Data Modeling**: Powered by Prisma ORM and Neon PostgreSQL serverless pooling.
+
+---
+
+### 3. 📄 [Bengali PDF Extractor — Electoral Roll OCR & Tabular Parser](https://github.com/murshedkoli-2/pdf-extractor)
+
+> **Specialized Python and Streamlit data extraction utility optimized for parsing multi-page scanned and digital Bengali voter lists into structured datasets.**
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square&logo=streamlit)](https://streamlit.io/)
+[![pdfplumber](https://img.shields.io/badge/Parser-pdfplumber_|_pypdf-green?style=flat-square)](https://github.com/jsvine/pdfplumber)
+[![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/murshedkoli-2/pdf-extractor)
+
+- **🇧🇩 Specialized Bengali Script OCR**: Custom layout algorithms tuned specifically for Bengali Unicode font ligatures, compound letters, and numerical digits.
+- **📑 Multi-Column Tabular Parsing**: Handles complex multi-card layouts spanning hundreds of pages with layout analysis and boundary detection.
+- **🖥️ Interactive Streamlit Interface**: Clean web UI to upload PDFs, preview parsed records in real-time, and download formatted datasets in Excel (`.xlsx`), CSV, or JSON.
+
+---
+
+### 4. 🤖 [Veo Prompt Builder — Interactive AI Video Prompt Studio](https://github.com/murshedkoli-2/veopromptbuilder)
+
+> **Interactive generative AI prompt synthesizer built for digital creators to compile optimized camera cues, lighting parameters, and styles for Google Veo, Sora, and Midjourney.**
+
+[![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![NextAuth](https://img.shields.io/badge/Auth-NextAuth.js-purple?style=flat-square)](https://next-auth.js.org/)
+[![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
+[![Framer Motion](https://img.shields.io/badge/Motion-Framer_Motion-0055FF?style=flat-square&logo=framer)](https://www.framer.com/motion/)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/murshedkoli-2/veopromptbuilder)
+
+- **🎬 Cinematic Parameter Controls**: Fine-tune camera motion (Drone, Dolly Zoom, Orbit), lenses, lighting conditions, and aesthetic moods.
+- **⚡ Real-Time Prompt Synthesis**: Instantly compiles complex visual descriptions into optimized, model-ready prompt strings.
+- **💾 Personal Prompt Library**: Save and categorize favorite prompts to user profiles backed by MongoDB and NextAuth.
+
+---
+
+## 🛠️ Complete Technical Arsenal
 
 <div align="center">
 
-### 💻 Frontend Development
-[![Next.js 15+](https://img.shields.io/badge/Next.js_15+-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+### 💻 Frontend & Next.js Core
+[![Next.js 16/15](https://img.shields.io/badge/Next.js_16_|_15-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React 19](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript_5+-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TypeScript 5+](https://img.shields.io/badge/TypeScript_5+-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)](https://radix-ui.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
-### ⚙️ Backend & Database Engineering
+### ⚙️ Backend, Serverless & Data
 [![Node.js LTS](https://img.shields.io/badge/Node.js_LTS-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Server Actions](https://img.shields.io/badge/Server_Actions-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Python 3.10+](https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![Neon Database](https://img.shields.io/badge/Neon_Serverless_Postgres-00E599?style=for-the-badge&logo=postgresql&logoColor=black)](https://neon.tech/)
+[![Neon Postgres](https://img.shields.io/badge/Neon_Serverless_Postgres-00E599?style=for-the-badge&logo=postgresql&logoColor=black)](https://neon.tech/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
 [![Google Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
 </div>
 
 ---
 
-## 🌟 Other Featured Projects
+## 🌟 Other Noteworthy Projects on this Profile
 
-| Project | Stack | Highlights | Repository |
+| Project | Stack | Focus Area | Repository |
 |---|---|---|---|
-| **🗳️ VoterApp** | Next.js 16, React 19, Prisma, Neon Postgres | Full-scale voter registry, ID pass generator & territorial demographic analytics | [View Repo](https://github.com/murshedkoli-2/voterapp) |
-| **🚀 Web Directory** | Next.js 15, Prisma, Neon, Radix UI | Curated digital domain directory with instant fuzzy search & submission pipeline | [View Repo](https://github.com/murshedkoli-2/web-directory) |
-| **📄 Bengali PDF Extractor** | Python 3.10+, Streamlit, pdfplumber | Automated multi-page OCR & tabular data parsing engine for electoral rolls | [View Repo](https://github.com/murshedkoli-2/pdf-extractor) |
-| **📰 NewsByte Engine** | Node.js, Cheerio, Mozilla Readability | Automated high-speed news scraping, content sanitization & Firebase live feed | [View Repo](https://github.com/murshedkoli-2/NewsByte) |
+| **📰 NewsByte Engine** | Node.js, Cheerio, Readability, Firebase | Real-time news discovery and content sanitization pipeline | [View Repo](https://github.com/murshedkoli-2/NewsByte) |
+| **🏛️ Smart Union** | React 19, React-PDF, Handlebars, JWT | Civic governance portal for verified official certificates | [View Repo](https://github.com/murshedkoli-2/smart_union) |
+| **📝 TaskFlow** | Next.js 15, TypeScript, MongoDB, NextAuth | Modern task and workspace productivity management system | [View Repo](https://github.com/murshedkoli-2/todo) |
+| **📱 NewsApp** | React Native, Expo 51, TanStack Query | Mobile news reader with offline caching and category feeds | [View Repo](https://github.com/murshedkoli-2/newsapp) |
+| **📶 MiFi Manager** | React Native, Expo, Supabase | Mobile cellular router balance and data quota monitoring | [View Repo](https://github.com/murshedkoli-2/mifi) |
 
 ---
 
